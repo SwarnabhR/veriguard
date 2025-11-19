@@ -1,0 +1,15 @@
+VERIGUARD - EVALUATION SUMMARY
+==================================================
+
+Test Accuracy: 0.9616
+Test Loss: 0.1867
+
+Precision: 0.9225
+Recall: 0.9167
+F1-Score: 0.9196
+Specificity: 0.9757
+
+Confusion Matrix:
+              Fake    Real
+Actual Fake   13861     345
+       Real     373    4106
