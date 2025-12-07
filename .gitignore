@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore trained model weights and checkpoints
+models/
+checkpoints/
+*.h5
